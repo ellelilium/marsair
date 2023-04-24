@@ -4,12 +4,13 @@
 
 **1.Main Repositories**
 
-
+git clone git@github.com:ellelilium/marsair.git
 
 
 **2. Clone Git Repository**
 ```bash
-git 
+
+git clone git@github.com:ellelilium/marsair.git
 
 ```
 
